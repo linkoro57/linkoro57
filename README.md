@@ -1,25 +1,33 @@
 <!-- Anime Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+linkoro57;C%2B%2B+Developer;Linux+Enjoyer;Competitive+PvP+Gamer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+linkoro57;C%2B%2B+Developer;Anime+Enjoyer;Competitive+Sword+PvP+Player" />
 </p>
 
 ---
 
 ## 🌸 About Me
 
-- 🎮 Competitive **Minecraft PvP** (sword servers, low latency)
-- 🧠 **C++** advanced, **Python** beginner
-- 🐧 Minimalist **Linux Mint** enjoyer
-- 📱 Android tweaker (Poco X7 Pro / Pixel 7)
-- 🔐 Cybersecurity & system hardening fan
-- 🎨 Clean UI lover (Fluent UI, flat design)
+- 🎮 Competitive **Minecraft Sword PvP** (FlowPvP HT3)
+- 🧠 Strong in **C, C+, C++, C#, HTML, JS, CSS**
+- 🐧 Calm, chill, intelligent
+- 📱 Poco X7 Pro user
+- 🖥️ Windows as main OS
+- 🎨 Anime aesthetic + serious tone
+- 🔐 Clean setups, optimized systems
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (Badges)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,linux,git,vscode,bash" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C%2B-00599C?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch" />
 </p>
 
 ---
@@ -36,7 +44,7 @@
 *(Boosted section with max content)*
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=500&lines=FlowPvP+Profile;Competitive+Sword+PvP;linkoro57" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=500&lines=FlowPvP+Profile;Sword+PvP+HT3;Winstreak+20%2B;linkoro57" />
 </p>
 
 <p align="center">
@@ -62,9 +70,9 @@
 
 ### 🛡️ PvP Badges  
 <p align="center">
-  <img src="https://img.shields.io/badge/Sword_PvP-Expert-F78FB3?style=for-the-badge&logo=minecraft" />
-  <img src="https://img.shields.io/badge/FlowPvP-Player-8A2BE2?style=for-the-badge&logo=mojang" />
-  <img src="https://img.shields.io/badge/Latency-Low-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sword_PvP-Strong-F78FB3?style=for-the-badge&logo=minecraft" />
+  <img src="https://img.shields.io/badge/Winstreak-20%2B-8A2BE2?style=for-the-badge&logo=mojang" />
+  <img src="https://img.shields.io/badge/HT3-FlowPvP-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -72,10 +80,11 @@
 # 🗡️ Minecraft PvP
 
 - 🥇 Sword PvP main  
-- ⚡ Low-latency setup (Metz / Saint-Médard)  
-- 🖱️ Clean aim, consistent tracking  
-- ⛓️ Prefers **1.8 mechanics**  
-- 🧩 Uses custom configs (sensitivity, FOV, binds)
+- ⚡ Strong player (FlowPvP HT3)  
+- 🔥 Winstreak 20+  
+- 🧠 Calm & calculated playstyle  
+- 🌀 Good movement + timing  
+- 🧩 Prefers clean setups, no flashy UI  
 
 <p align="center">
   <img src="https://img.shields.io/badge/1.8.9-PvP-orange?style=for-the-badge&logo=mojang" />
@@ -83,65 +92,34 @@
 
 ---
 
-# 🖥️ My Setup
+# 💻 Development
 
-### 📱 Phones
+- Writes clean, structured code  
+- Strong in C-family languages  
+- Comfortable with web basics  
+- Likes minimalistic UI  
+- Mix of **PvP + Dev** identity  
+
+---
+
+# 📱 Devices
+
 - Poco X7 Pro  
-- Google Pixel 7  
+- Windows main OS  
+- Linux Mint secondary (optional)
 
-### 🖥️ PC
-- Linux Mint (clean UI, no glow)  
-- Windows (debloated, optimized)  
+---
 
-### 🔧 Tools
+# 🎭 Personality
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,clion,androidstudio,git,linux" />
+  <img src="https://img.shields.io/badge/Calm-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Chill-03A9F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Intelligent-9C27B0?style=for-the-badge" />
 </p>
 
 ---
 
-# 💼 Projects
-
-- 🔐 System hardening scripts  
-- 🧰 Linux Mint optimizations  
-- 🛠️ C++ utilities  
-- 📦 Android ADB tweaks  
-- 🎮 Minecraft PvP configs  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-Coming_Soon-F78FB3?style=for-the-badge" />
-</p>
-
----
-
-# 🌱 Dev Goals
-
-- Improve Python  
-- Learn Rust  
-- Build a PvP stats tracker  
-- Create a clean Fluent UI dashboard  
-- Make a Linux Mint “PvP Edition”  
-
----
-
-# 🎭 Anime Vibes
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=500&lines=Minimalist+Anime+Energy;Clean+Lines+%26+Soft+Colors;Tech+Meets+PvP" />
-</p>
-
----
-
-# 🎲 Fun Facts
-
-- I hate flashy UI  
-- I love calamar  
-- I optimize everything  
-- I prefer clean code over fast code  
-- I have a PvP brain 24/7  
-
----
-
-<p align="center">
-  <i>“Clean code, clean UI, clean aim.”</i>
+  <b>just linkoro57</b>
 </p>
