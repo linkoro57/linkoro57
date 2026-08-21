@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"  # tous les jours à minuit
   workflow_dispatch:
 
+permissions:
+  contents: write  # autorise le bot à pousser les fichiers
+
 jobs:
   generate:
     runs-on: ubuntu-latest
