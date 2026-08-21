@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
 
       - name: Push Snake to GitHub
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "update snake"
           file_pattern: dist/github-contribution-grid-snake.svg
