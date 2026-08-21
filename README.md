@@ -62,11 +62,6 @@
   <img src="https://mc-heads.net/body/linkoro57/200" alt="linkoro57 body" />
 </p>
 
-### 🌀 Player 3D Render  
-<p align="center">
-  <img src="https://mc-heads.net/player/render/linkoro57/300" alt="linkoro57 3D" />
-</p>
-
 ### 🛡️ PvP Badges  
 <p align="center">
   <img src="https://img.shields.io/badge/Sword_PvP-Strong-F78FB3?style=for-the-badge&logo=minecraft" />
