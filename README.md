@@ -23,21 +23,7 @@
 
 ---
 
-## 📊 GitHub Stats  
-*(Safe version — no broken images, no weird placement)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linkoro57&show_icons=true&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linkoro57&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
-## 🐍 Contribution Snake  
-*(This one is stable and rarely breaks)*
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
@@ -49,13 +35,9 @@
 
 <p align="center">
   <a href="https://flowpvp.gg/player/linkoro57" target="_blank">
-    <img alt="FlowPvP Profile" width="200" src="https://skillicons.dev/icons?i=minecraft" />
+    <img alt="FlowPvP - linkoro57" src="https://mc-heads.net/avatar/linkoro57/100" />
   </a>
 </p>
-
-<!-- Explanation:
-FlowPvP has NO embed API, so we use a clean clickable icon instead.
--->
 
 ---
 
