@@ -41,7 +41,6 @@
 ---
 
 # ⚔️ FlowPvP Account  
-*(Boosted section with max content)*
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=500&lines=FlowPvP+Profile;Sword+PvP+HT3;Winstreak+20%2B;linkoro57" />
@@ -61,11 +60,6 @@
 ### 🧍 Player Body  
 <p align="center">
   <img src="https://mc-heads.net/body/linkoro57/200" alt="linkoro57 body" />
-</p>
-
-### 🌀 Player 3D Render  
-<p align="center">
-  <img src="https://mc-heads.net/player/render/linkoro57/300" alt="linkoro57 3D" />
 </p>
 
 ### 🛡️ PvP Badges  
