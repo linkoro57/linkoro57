@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -20,8 +20,10 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake to GitHub
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "update snake"
-          file_pattern: dist/github-contribution-grid-snake.svg
+      - name: Commit and Push Snake
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "update snake" || echo "No changes to commit"
+          git push
