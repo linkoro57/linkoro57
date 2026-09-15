@@ -1,23 +1,21 @@
-<!-- Anime Typing Header -->
+<!-- Typing Header -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+linkoro57;C%2B%2B+Developer;Anime+Enjoyer;Competitive+Sword+PvP+Player" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+linkoro57;C%2B%2B+Developer;Clean+Code;Optimized+Systems" />
 </p>
 
 ---
 
-## 🌸 About Me
+## About Me
 
-- 🎮 Competitive **Minecraft Sword PvP** (FlowPvP HT3)
-- 🧠 Strong in **C, C+, C++, C#, HTML, JS, CSS**
-- 🐧 Calm, chill, intelligent
-- 📱 Poco X7 Pro user
-- 🖥️ Windows as main OS
-- 🎨 Anime aesthetic + serious tone
-- 🔐 Clean setups, optimized systems
+* Strong in **C, C+, C++, C#, HTML, JS, CSS**
+* Writes clean and structured code
+* Focused on optimized systems
+* Likes minimalistic UI and clean setups
 
 ---
 
-## ⚙️ Tech Stack (Badges)
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
@@ -40,80 +38,16 @@
 
 ---
 
-# ⚔️ FlowPvP Account  
+## 💻 Development
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F78FB3&center=true&vCenter=true&width=500&lines=FlowPvP+Profile;Sword+PvP+HT3;Winstreak+20%2B;linkoro57" />
-</p>
-
-<p align="center">
-  <a href="https://flowpvp.gg/player/linkoro57" target="_blank">
-    <b>🔗 View FlowPvP Profile</b>
-  </a>
-</p>
-
-### 🧠 Player Head  
-<p align="center">
-  <img src="https://mc-heads.net/avatar/linkoro57/150" alt="linkoro57 head" />
-</p>
-
-### 🧍 Player Body  
-<p align="center">
-  <img src="https://mc-heads.net/body/linkoro57/200" alt="linkoro57 body" />
-</p>
-
-### 🛡️ PvP Badges  
-<p align="center">
-  <img src="https://img.shields.io/badge/Sword_PvP-Strong-F78FB3?style=for-the-badge&logo=minecraft" />
-  <img src="https://img.shields.io/badge/Winstreak-20%2B-8A2BE2?style=for-the-badge&logo=mojang" />
-  <img src="https://img.shields.io/badge/HT3-FlowPvP-orange?style=for-the-badge" />
-</p>
-
----
-
-# 🗡️ Minecraft PvP
-
-- 🥇 Sword PvP main  
-- ⚡ Strong player (FlowPvP HT3)  
-- 🔥 Winstreak 20+  
-- 🧠 Calm & calculated playstyle  
-- 🌀 Good movement + timing  
-- 🧩 Prefers clean setups, no flashy UI  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/1.8.9-PvP-orange?style=for-the-badge&logo=mojang" />
-</p>
-
----
-
-# 💻 Development
-
-- Writes clean, structured code  
-- Strong in C-family languages  
-- Comfortable with web basics  
-- Likes minimalistic UI  
-- Mix of **PvP + Dev** identity  
-
----
-
-# 📱 Devices
-
-- Poco X7 Pro  
-- Windows main OS  
-- Linux Mint secondary (optional)
-
----
-
-# 🎭 Personality
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Calm-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Chill-03A9F4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Intelligent-9C27B0?style=for-the-badge" />
-</p>
+* Clean and structured code
+* Strong in C-family languages
+* Comfortable with web development
+* Minimalistic interfaces
+* Performance and optimization focused
 
 ---
 
 <p align="center">
-  <b>just linkoro57</b>
+  <b>linkoro57</b>
 </p>
