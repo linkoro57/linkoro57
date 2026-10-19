@@ -18,14 +18,12 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C%2B-00599C?style=for-the-badge&logo=c" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
-  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=luau&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch" />
 </p>
 
 ---
